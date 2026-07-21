@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0754_000-X.yaml, hash: 'sha256:f54dea2104450ee6f60e405e01821d114797f56e8985b63ed8c0ab8b25b81bf5'}
+  - {seq: 0, filename: KR6j0754_000-X.yaml, hash: 'sha256:53aec73385af6997c192faaca2ad7d2ced9661cc988ae12d2c824f4a3268eebb'}
   - {seq: 1, filename: KR6j0754_001-X.yaml, hash: 'sha256:2951158eecec3b6d1b28e2e6271b4660b0986750715524cb60cda079865cc1dc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0754_000-X.markers.yaml, hash: 'sha256:fffa340d3ce9f379cf19ddfcae85fb04400bc8a357da2f23adfbd41eb4fd047d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0754_000-X.markers.yaml, hash: 'sha256:e64a8986baaf3c99b8531f884a91633893811a8589786ec97dd7d1e0a455b9ea'}
   - {seq: 1, role: markers, filename: assets/KR6j0754_001-X.markers.yaml, hash: 'sha256:d22298e1e8e5cc9cb431a17156b1e311ab6652eb58dba1405a7a6bde34320fc3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0754_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1081-A 敘
@@ -65,4 +65,4 @@ table_of_contents:
   label: 施食補註
   type: mulu
   level: 1
-hash: sha256:c3310b30de107cf28e79374a69fd3696d02b9235ac5d2fa2d78b35d72d75cffa
+hash: sha256:bbb6bedc44cf0303c3b183635b9f8befab3c4f561652810ee6bcfc5ee7347918
